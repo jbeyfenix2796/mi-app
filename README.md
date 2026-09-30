@@ -22,9 +22,9 @@ Proyecto del Reto 2 del módulo **Despliegue de Aplicaciones Web y Móviles**. S
 - Tag de versión `v1.0.0`.
 
 ### 4. Despliegue con Apache
-- Apache 2.4 instalado en Windows.
-- Alias configurado en `httpd.conf` para acceder vía `http://localhost/mi-app`.
-- Compresión gzip y caché de archivos estáticos activados.
+- XAMPP instalado en Windows (incluye Apache 2.4).
+- Archivos de la aplicación copiados a `C:\xampp\htdocs\mi-app\`.
+- Alias `/mi-app` configurado en `C:\xampp\apache\conf\httpd.conf`.
 
 ## 🛠️ Tecnologías utilizadas
 
